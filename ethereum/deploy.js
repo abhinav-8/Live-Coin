@@ -3,6 +3,7 @@ const Web3 = require("web3");
 const compiledFactory = require("./build/CampaignFactory.json");
 
 const provider = new HDWalletProvider(
+	/*Write ur metamask pneumonic here*/
 	"edge reward bike chaos quantum rigid violin kingdom grunt motion heart napkin",
 	"https://rinkeby.infura.io/v3/3163ab6bb0504d459cff776cc6c01b5e"
 );
