@@ -20,7 +20,7 @@ No matter what, creators always control how the work comes together: _no
 100-page grant applications_, _no donors demanding you modify your message_,
 _no last-minute edits from investors_. When backers chip in funding and help
 spread the word, they too become part of these independent works.
-
+.
 ---
 
 # FOR INVESTERS
